@@ -1,0 +1,15 @@
+openai
+wikipedia
+llama_index
+load_dotenv
+llama-index-readers-wikipedia
+wikipedia
+langchain_community
+langchain_openai
+pandas
+faiss-cpu
+load_dotenv
+scikit-learn
+matplotlib
+numpy
+pinecone-client
